@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/header2.jpg" width="100%" alt="Banner de Luiz Santos" />
+  <img src="./assets/Banner01.jpeg" width="100%" alt="Banner de Luiz Santos" />
 </p>
 
 <h2 align="center">Tecnologias & Ferramentas</h2>
